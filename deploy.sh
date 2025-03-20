@@ -5,4 +5,4 @@
     docker login -u mathavramalingam -p dckr_pat_6vZaSzV9PzQ8NPi7ZkXIhGwRRsg
     docker tag test mathavramalingam/devops
     docker push mathavramalingam/devops
-    
+    docker-compose up -d
